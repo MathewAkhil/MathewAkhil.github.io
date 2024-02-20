@@ -14,3 +14,17 @@ img {
     height: auto;
 }
 
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: teal;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 20px;
+    font-weight: bold;
+  }
+  
+  .button:hover {
+    background-color: #60bfbf;
+  }
